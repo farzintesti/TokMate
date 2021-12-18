@@ -6,7 +6,7 @@ from src.message import sendVideo
 
 #: Configuration for webhook
 webhookBaseUrl = f"https://{config['webhookOptions']['webhookHost']}:{config['webhookOptions']['webhookPort']}"
-webhookUrlPath = f"/{config['botToken']}/"
+webhookUrlPath = f"/{config['1645424234:AAH-m1Z3aZ8Vvb2r82ZvIx6nDlKvTuFxPiE']}/"
 
 app = web.Application()
 
